@@ -1,10 +1,11 @@
 
-baseURL = "https://catmerge-blog.pages.dev/"
+baseURL = "https://catmerge.com/"
 languageCode = "en-us"
-title = "CatMerge Blog"
+title = "CatMerge"
 theme = "ananke"
-buildFuture = true
-paginate = 10
+paginate = 12
+enableRobotsTXT = true
+buildFuture = false
 
 [params]
   mainSections = ["posts"]
